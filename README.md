@@ -1,3 +1,11 @@
+# 4B25 Coursework 5 Diff changes
+
+<p>The code was based on the WARP firmware.
+diff against the WARP firmware can be found <a href="https://github.com/IoannouPanayiotis/Warp-firmware/pull/1/files">here:
+https://github.com/IoannouPanayiotis/Warp-firmware/pull/1/files</a>
+<p>
+
+
 # Baseline firmware for the [Warp](https://github.com/physical-computation/Warp-hardware) family of hardware platforms
 This is the firmware for the [Warp hardware](https://github.com/physical-computation/Warp-hardware) and its publicly available and unpublished derivatives. This firmware also runs on the Freescale/NXP FRDM KL03 evaluation board which we use for teaching at the University of Cambridge. When running on platforms other than Warp, only the sensors available in the corresponding hardware platform are accessible.
 
